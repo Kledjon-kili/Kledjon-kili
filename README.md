@@ -10,26 +10,39 @@
   <img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif" alt="coding-gif" />
 </div>
 
+<h2 align="center">Hi! My name is Kledjon and I'm an IT student from Italy🍕</h2>
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kledjon-kili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kledjon-kili&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-  <h2>I miei strumenti di lavoro:</h2>
+<div align="center">
+  <div align="center">
+    <h2>This is me btw:</h2>
+    <img width="180" height="180" alt="coding gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
+  </div>
+  
+  <div align="center">
+    <h2>My programming languages:</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
+  </div>
+</div>
 
-  <p>
+<hr>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" title="Godot" />
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" title="Unity" />
-
-  </p>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg">
+  </picture>
 </div>
 
 <br />
