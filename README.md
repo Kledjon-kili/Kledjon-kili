@@ -31,5 +31,13 @@
 </div>
 
 <hr>
-<img width="1895" height="857" alt="image" src="https://github.com/user-attachments/assets/91d1f478-5ce4-4a52-bc09-546e6129cfda" />
 
+
+<div align="center">
+  <h2>La mia attività:</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg">
+  </picture>
+</div>
