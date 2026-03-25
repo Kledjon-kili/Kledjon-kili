@@ -35,5 +35,5 @@
 
 <div align="center">
   <h2>Attività nel tempo:</h2>
-  <img src="[https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg" alt="Snake animation](https://raw.githubusercontent.com/ironsakit/ironsakit/output/snake.svg)" />
+  <img src="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg" alt="Snake animation" />
 </div>
