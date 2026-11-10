@@ -1,23 +1,38 @@
-### Hi there, I'm Kledjon 👋
+# Hi, I'm Kledjon
 
-🎓 Computer Science student at **Università del Piemonte Orientale (UPO)** — 2nd year
-💻 Building small projects in **C, Java and Python** while I learn
-🌱 Currently diving into **Operating Systems, Databases and Object-Oriented Programming**
-📫 How to reach me: kledjon.kili@gmail.com
+Computer science student at the University of Eastern Piedmont (UPO), second year.
+
+Technology has fascinated me for as long as I can remember — not one specific
+thing, but the whole of it: how it works and what you can get it to do. That's
+also how I learn. I take something apart, mess with it until it breaks, then
+figure out why. Lately the part that pulls me in the most is AI, and that's the
+direction I want to go: after the bachelor's I'm planning to continue with a
+master's focused on artificial intelligence.
+
+For now I mostly build small projects to practice what I'm studying — mainly
+**C** and **Java**, with some **Python** and **SQL** along the way.
+
+### Projects
+- **Wordle** — a clone of the game Wordle, written in C. *(finished)*
+- **1st_year_university** — exercises and coursework from my first year.
 
 ---
 
-#### 🛠️ Tech & Tools
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# Ciao, sono Kledjon
 
-#### 📌 What I'm working on
-- 🎮 **Wordle** — a Wordle clone written in C
-- 📚 **University projects** — coursework and exercises from my CS degree
+Studente di informatica all'Università del Piemonte Orientale (UPO), al secondo anno.
 
-#### 📊 GitHub Stats
-![Kledjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kledjon-kili&show_icons=true&theme=default)
+La tecnologia mi ha sempre affascinato, da che ho memoria — non una cosa in
+particolare, ma il tutto: come funziona e cosa ci si può fare. È anche il modo in
+cui imparo. Smonto qualcosa, ci smanetto finché non si rompe, e poi capisco
+perché. Ultimamente la parte che mi attira di più è l'AI, ed è la direzione che
+voglio prendere: dopo la triennale vorrei continuare con una magistrale orientata
+all'intelligenza artificiale.
+
+Per ora costruisco soprattutto piccoli progetti per mettere in pratica quello che
+studio — soprattutto **C** e **Java**, con un po' di **Python** e **SQL** strada
+facendo.
+
+### Progetti
+- **Wordle** — un clone del gioco Wordle, scritto in C. *(concluso)*
+- **1st_year_university** — esercizi e materiale del primo anno.
