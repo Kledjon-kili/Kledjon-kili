@@ -1,34 +1,23 @@
-<h2 align="center">Hi! My name is Kledjon and I'm an IT student from Italy🍕</h2>
+### Hi there, I'm Kledjon 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kledjon-kili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kledjon-kili&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+🎓 Computer Science student at **Università del Piemonte Orientale (UPO)** — 2nd year
+💻 Building small projects in **C, Java and Python** while I learn
+🌱 Currently diving into **Operating Systems, Databases and Object-Oriented Programming**
+📫 How to reach me: kledjon.kili@gmail.com
 
-<div align="center">
-  <div align="center">
-    <h2>This is me btw:</h2>
-    <img width="180" height="180" alt="coding gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVobWdrMnRoZmJpdHRlanl6MzFmcWI4Z28zOThrNGluMm1nN3BseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEXEVoZe5J5Fyx6J4v/giphy.gif"/>
-  </div>
-  
-  <div align="center">
-    <h2>My programming languages:</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
-  </div>
-</div>
+---
 
-<hr>
+#### 🛠️ Tech & Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kledjon-kili/Kledjon-kili/output/snake.svg">
-  </picture>
-</div>
+#### 📌 What I'm working on
+- 🎮 **Wordle** — a Wordle clone written in C
+- 📚 **University projects** — coursework and exercises from my CS degree
+
+#### 📊 GitHub Stats
+![Kledjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kledjon-kili&show_icons=true&theme=default)
